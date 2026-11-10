@@ -1,10 +1,10 @@
-# 📊 Exploratory Data Analysis (EDA)
+#  Exploratory Data Analysis (EDA)
 
 This repository contains my notes, code, and practical implementations of Exploratory Data Analysis (EDA) using Python.
 
 I'm building this as a reference for my Machine Learning journey, covering different ways to explore datasets, understand feature distributions, find relationships between variables, identify missing values and outliers, and draw useful insights before training ML models.
 
-## 🛠️ Libraries Used
+##  Libraries Used
 
 | Library | Purpose |
 |---|---|
@@ -13,7 +13,7 @@ I'm building this as a reference for my Machine Learning journey, covering diffe
 | Matplotlib | Data visualization |
 | Seaborn | Statistical data visualization |
 
-## 📚 Topics Covered
+##  Topics Covered
 
 ### 1. Data Understanding
 - Loading datasets.
@@ -109,7 +109,7 @@ Basic techniques for handling issues identified during data exploration.
 - Handling outliers.
 - Correcting data types.
 
-## 🔄 Where EDA Fits in Machine Learning
+##  Where EDA Fits in Machine Learning
 
 EDA helps us understand what we're working with before jumping into model development.
 
